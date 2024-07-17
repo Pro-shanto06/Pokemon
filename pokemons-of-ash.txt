@@ -3,6 +3,11 @@ Charizard
 Bulbasaur
 Squirtle
 Pidgeotto
+Snorlax
+Heracross
+Gengar
+Scyther
+Gible
 Bayleef
 Totodile
 Noctowl
