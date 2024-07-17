@@ -6,6 +6,11 @@ Pidgeotto
 Snorlax
 Heracross
 Gengar
+Butterfree
+Muk
+Kingler
+Tauros
+Lapras
 Scyther
 Gible
 Bayleef
