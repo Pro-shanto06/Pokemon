@@ -3,6 +3,11 @@ Charizard
 Bulbasaur
 Squirtle
 Pidgeotto
+Primeape
+Chikorita
+Phanpy
+Cyndaquil
+Torkoal
 Bayleef
 Totodile
 Noctowl
